@@ -1,4 +1,4 @@
-# KeyAuth-JS-Example : Please star 🌟
+# KeyAuth-JS/TS-Example : Please star 🌟
 
 KeyAuth JavaScript / TypeScript example SDK for https://keyauth.cc license key API auth.
 
