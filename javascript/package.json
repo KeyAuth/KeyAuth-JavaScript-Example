@@ -1,0 +1,17 @@
+{
+  "name": "keyauth-js-example",
+  "module": "src/index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/qrcode": "^1.5.5"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "discord-interactions": "^4.1.1",
+    "qrcode": "^1.5.4",
+    "tweetnacl": "^1.0.3"
+  }
+}
