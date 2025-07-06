@@ -166,7 +166,7 @@ export default class KeyAuth {
     if (!hwid) hwid = this.get_hwid()
 
     const post_data = {
-      type: "register",
+      type: "login",
       name: this.name,
       ownerid: this.ownerid,
       sessionid: this.sessionid,
